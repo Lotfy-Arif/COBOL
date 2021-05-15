@@ -1,0 +1,4 @@
+
+       01  PROGRAM-TABLE-WS OCCURS 20 TIMES.
+           05  PROGRAM-CODE-WS PIC X(5).
+           05  PROGRAM-NAME-WS PIC X(20).
