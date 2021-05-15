@@ -1,6 +1,6 @@
 # Project 3
 ## Project3_part1
-A COBOL program to **convert** the student sequantial file to Indexed file
+A COBOL program to **convert** the student file to Indexed sequantial file
 ## Project3_part2
 A COBOL program with a **screen section** that would a user input and update the indexed student file.
 ## Project3_part3
